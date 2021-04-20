@@ -3,6 +3,14 @@ using namespace std;
 
 main()
 {
-    cout << "hallo ";
+    int x = 34;
+    cout << "hallo 123";
+    cout << endl;
+    cout << "1" << endl;
+    cout << x << endl;
+    cout << "2" << endl;
+    cin >> x;
+    cout << endl;
+    cout << x;
 }
 
