@@ -1,9 +1,0 @@
-==== AsciiDoc Test version
-ein Test für lehrn Zweken
-_und das alles_ was man hat
-
-=== Keine Ahnung
-
-== Gut gut
-
-= Run
